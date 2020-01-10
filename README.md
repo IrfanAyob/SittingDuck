@@ -1,2 +1,2 @@
-# SwaggyQuack
+# SittingDuck
 Quack Quack mf
